@@ -1,6 +1,6 @@
 # stockkey
 
-A new Flutter project.
+Displaying all the stock market listed comanies with their informations in the flutter app using Api. Sign in using firebase & onboarding screens are also added.
 
 ## Getting Started
 
