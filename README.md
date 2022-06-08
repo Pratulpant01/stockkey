@@ -1,4 +1,6 @@
 # stockkey
+![](https://github.com/Pratulpant01/stockkey/blob/master/stockKey%20App.gif)
+
 
 Displaying all the stock market listed comanies with their informations in the flutter app using Api. Sign in using firebase & onboarding screens are also added.
 
